@@ -1,5 +1,5 @@
 - 👋 Hello world, c'est @BrunoProUX
-- 👀 Je suis intérssé par les humains et la culture, sur tout la musique, et comment les humains interfacent avec leur environnement.
+- 👀 Je suis intérssé par les humains et la culture, surtout la musique, et comment les humains interfacent avec leur environnement.
 - 🌱 J'apprend à utiliser github
 - 💞️ Je veux favoriser les échanges et collaborations avec les DEVs
 - 📫 How to reach me ...
